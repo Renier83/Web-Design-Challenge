@@ -2,7 +2,8 @@
 
 Using data already provided we learned here the basic of CSS and HTML to show data in a webpage and how to use tools to organize the data and make it look clean
 
-![main](https://user-images.githubusercontent.com/68042445/120897182-d880a880-c5f2-11eb-9248-2af26658d220.PNG)
+![main1](https://user-images.githubusercontent.com/68042445/120897228-049c2980-c5f3-11eb-87b2-4d0d15cca38e.PNG)
+
 
 ![1](https://user-images.githubusercontent.com/68042445/120897185-dd455c80-c5f2-11eb-9484-3c17601f92a7.PNG)
 
